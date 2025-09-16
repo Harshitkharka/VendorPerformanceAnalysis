@@ -62,7 +62,3 @@ MIT License (feel free to update as needed).
 
 ***
 
-For questions or contributions, open an issue or submit a pull request.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/50359516/9757179d-31cd-4201-be1a-bcb44efb7190/Dataingestion.py)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/50359516/33f88da4-52f1-4dc5-a49c-1cd096370e05/SalesAnalysis.ipynb)
